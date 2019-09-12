@@ -1,0 +1,98 @@
+body{
+    background-image: url("https://wallpaperfm.com/img/original/2/6/1/32710.jpg");
+    
+
+}
+
+  div p{
+     text-align: center;
+     font-family: 'Poppins', sans-serif;
+    letter-spacing: 10px;
+    font-size: 100px;
+    color: #c0c0c0;
+    margin-top: 300px;
+    
+    
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 8vh;
+    color: #c0c0c0;
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    width: 100%;
+    height: 70px;
+}
+
+h1{
+    position: absolute;
+    padding: 3px;
+    float: left;
+    margin-left: 2%;
+    margin-top: 10px;
+    font-family: 'Poppins', sans-serif;
+    color: #c0c0c0;
+    padding-left: 220px;
+    font-size: 20px;
+   
+
+
+}
+
+ul{
+    width: auto;
+    float: right;
+    margin-top: 8px;
+    padding-left: 800px
+}
+
+li{
+    display: inline-block;
+    padding: 15px 30px;
+
+}
+
+a {
+    text-align: center;
+    color: #c0c0c0;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.2vw;
+    font-size: 18px;
+    
+}
+
+div strong {
+    color: #c0c0c0;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 670px;
+    
+    
+
+}
+
+button {
+    color: white;
+    letter-spacing: 2px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    background-color: teal;
+    border-radius: 5px 5px 5px 5px;
+    border: none;
+    padding: 17px;
+    text-decoration: none;
+    display: inline-block;
+    justify-items: center;
+    margin-left: 865px;
+    margin-top: 40px;
+    
+}
+
+button:hover {
+    background-color: gray;
+  }
